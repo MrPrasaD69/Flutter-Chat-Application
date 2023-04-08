@@ -1,6 +1,7 @@
-# chat_app
+# Chat_app
 
 A new Flutter project.
+Modern App UI for chat Application. Currently having Front End built and ready.
 
 ## Getting Started
 
